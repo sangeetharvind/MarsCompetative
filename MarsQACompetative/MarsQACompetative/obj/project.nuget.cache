@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOgrxpioAPMcnKGTfQdFmDR0tuPBydY9JVgXyrUeNOnDwsghJNfoPoq3l41F7y74M6UW6ckxq8yEnz//harOiw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces\\MarsQACompetitiveTask\\MarsQACompetative\\MarsQACompetative\\MarsQACompetative.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aravi\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\aravi\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
